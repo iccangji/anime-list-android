@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Anime List</string>
+    <string name="placeholder_search_anime">Search anime…</string>
+    <string name="placeholder_search_favorite">Search favorite…</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="no_data">No Data</string>
+    <string name="error_connection">Network Problem \n Please check your connection</string>
+    <string name="genre">Genre:\t</string>
+    <string name="add_favorite">Add to Favorite</string>
+    <string name="added_favorite">Added to Favorite</string>
+    <string name="delete_favorite">Remove from favorite</string>
+    <string name="search_anime">Search anime</string>
+</resources>
